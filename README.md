@@ -3,24 +3,24 @@
 ## Features / Funcionalidades
 
 ### English
-- List all catalog products.
-- List all historical invoices.
-- Add, modify (product code, name, price, stock, and minimum stock), and remove products.
-- Selling system, including invoice generation with payment method, subtotal, total amount (price differences for cash or installment payments), and a detailed list of all products with their code, name, quantity, and unit price.
+- Allows adding, modifying (product code, name, price, stock, and minimum stock), and removing products from the catalog.
+- Selling system, including invoice generation detailing payment method, subtotal, total amount (price differences for cash or installment payments), and a detailed list of all products with their code, name, quantity, and unit price.
 - Print the selected invoice from the history, detailing the products sold and their prices.
-- Reserve selected products during the sales process until the transaction is confirmed, allowing the user to modify or remove items, and adjust quantities if needed.
+- Reserve selected products during the sales process until the transaction is confirmed, allowing the user to modify or remove items and adjust item quantities if needed.
 - After completing the sale, check if any product reaches its minimum stock level and notify the user by printing a message.
 - Prevent the selection of more products than available in stock, ensuring it does not go below the minimum stock level.
+- List all catalog products.
+- List all historical invoices.
 
 ### Español
-- Listar todos los productos del catálogo.
-- Listar todas las facturas históricas.
-- Agregar, modificar (código de producto, nombre, precio, stock y stock mínimo) y eliminar productos.
-- Sistema de ventas, que incluye la generación de facturas con método de pago, subtotal, monto total (diferencias de precio si se paga en efectivo o en cuotas), y una lista detallada de todos los productos con su código, nombre, cantidad y precio unitario.
+- Permite agregar, modificar (código de producto, nombre, precio, stock y stock mínimo) y eliminar productos del catalogo.
+- Sistema de ventas, que incluye la generación de facturas detallando método de pago, subtotal, monto total (diferencias de precio si se paga en efectivo o en cuotas), y una lista detallada de todos los productos con su código, nombre, cantidad y precio unitario.
 - Imprimir la factura seleccionada del historial, detallando los productos vendidos y sus precios.
-- Reservar los productos seleccionados durante el proceso de venta hasta que la transacción sea confirmada, permitiendo al usuario modificar o eliminar elementos, y ajustar las cantidades si es necesario.
+- Reservar los productos seleccionados durante el proceso de venta hasta que la transacción sea confirmada, permitiendo al usuario modificar o eliminar elementos, y ajustar las cantidades de los productos en caso de ser necesario.
 - Al finalizar la venta, verificar si algún producto llega a su nivel mínimo de stock y notificar al usuario imprimiendo un mensaje.
 - Prevenir la selección de más productos de los que están disponibles en stock, asegurando que no se reduzca por debajo del nivel mínimo de stock.
+- Listar todos los productos del catálogo.
+- Listar todas las facturas históricas.
 
 ## Introduction / Introducción
 
